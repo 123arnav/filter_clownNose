@@ -1,0 +1,12 @@
+.heading{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url("background.jpg");
+}
+canvas{
+    border: 3px;
+    border-style: dashed;
+    box-shadow:15px 15px 13px lightblue ;
+}
