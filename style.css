@@ -8,5 +8,5 @@ body{
 canvas{
     border: 3px;
     border-style: dashed;
-    box-shadow:15px 15px 13px lightblue ;
+    box-shadow:15px 15px 13px rgb(50, 137, 177) ;
 }
